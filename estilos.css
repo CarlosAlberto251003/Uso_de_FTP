@@ -1,0 +1,14 @@
+.fondo1{
+    background: rgb(91,0,129);
+    background: linear-gradient(90deg, rgba(91,0,129,1) 0%, rgba(114,9,121,1) 50%, rgba(244,0,255,1) 100%);
+}
+.fondo2{
+    background: rgb(89,129,0);
+    background: linear-gradient(90deg, rgba(89,129,0,1) 0%, rgba(43,121,9,1) 50%, rgba(5,255,0,1) 100%);
+}
+.texto1{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px 0;
+}
